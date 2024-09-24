@@ -33,24 +33,5 @@ The dataset used in this analysis includes detailed information about road accid
 - **Urban vs. Rural Accidents**: 61.95% of casualties occur in urban areas, while 38.05% are in rural areas.
 - **Light Conditions**: 73.84% of accidents happen during the day, with the rest occurring in the dark.
 
-## Installation & Usage
-To view the dashboard, follow these steps:
-1. Download the Power BI dashboard file (`Road_Accident_Analysis.pbix`).
-2. Open the file in Power BI Desktop.
-3. Interact with the dashboard by using the provided slicers and map visualizations to explore the data.
-
-## Future Work
-- Adding more detailed filters for deeper analysis, such as driver age and weather conditions.
-- Integrating real-time data to monitor accident trends dynamically.
-- Implementing predictive analytics to identify potential accident hotspots.
-
-## Contributing
-If you would like to contribute to this project, feel free to fork the repository and submit a pull request. Any suggestions or improvements are welcome!
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-Thanks to [Data Source/Provider] for the dataset and the Power BI community for valuable resources and support.
 
 
